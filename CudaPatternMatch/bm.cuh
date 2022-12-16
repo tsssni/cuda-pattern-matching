@@ -1,0 +1,2 @@
+void bmCpu();
+void bmGpu();

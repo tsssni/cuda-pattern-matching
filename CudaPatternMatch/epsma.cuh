@@ -1,0 +1,2 @@
+void epsmaCpu();
+void epsmaGpu();

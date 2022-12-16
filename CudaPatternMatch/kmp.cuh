@@ -1,0 +1,2 @@
+void kmpCpu();
+void kmpGpu();

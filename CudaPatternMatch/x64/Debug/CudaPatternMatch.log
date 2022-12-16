@@ -1,0 +1,62 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\x64\Debug\kernel.cu.obj "C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu" 
+  device_functions.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead.
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(141): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(141): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(142): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(142): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(143): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(143): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(144): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(144): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(145): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(145): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(146): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(146): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(238): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(141): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(141): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(142): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(142): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(143): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(143): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(144): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(144): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(145): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(145): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(146): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(146): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(238): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+  kernel.cu
+  device_functions.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead.
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(45): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(50): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\CudaPatternMatch\CudaPatternMatch\CudaPatternMatch\kernel.cu(90): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  CudaPatternMatch.vcxproj -> C:\CudaPatternMatch\CudaPatternMatch\x64\Debug\CudaPatternMatch.exe

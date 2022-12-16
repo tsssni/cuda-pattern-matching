@@ -1,0 +1,2 @@
+void bfCpu();
+void bfGpu();

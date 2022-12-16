@@ -1,0 +1,110 @@
+func:Brute Force CPU,pattern length:2,time:18.93
+func:Brute Force CPU,pattern length:4,time:18.66
+func:Brute Force CPU,pattern length:8,time:16.91
+func:Brute Force CPU,pattern length:16,time:17.40
+func:Brute Force CPU,pattern length:32,time:17.61
+func:Brute Force CPU,pattern length:64,time:16.97
+func:Brute Force CPU,pattern length:128,time:17.20
+func:Brute Force CPU,pattern length:256,time:16.59
+func:Brute Force CPU,pattern length:512,time:17.02
+func:Brute Force CPU,pattern length:1024,time:17.44
+func:Brute Force GPU,pattern length:2,time:2.72
+func:Brute Force GPU,pattern length:4,time:2.74
+func:Brute Force GPU,pattern length:8,time:2.79
+func:Brute Force GPU,pattern length:16,time:2.74
+func:Brute Force GPU,pattern length:32,time:2.72
+func:Brute Force GPU,pattern length:64,time:2.80
+func:Brute Force GPU,pattern length:128,time:2.82
+func:Brute Force GPU,pattern length:256,time:2.89
+func:Brute Force GPU,pattern length:512,time:2.86
+func:Brute Force GPU,pattern length:1024,time:3.15
+func:KMP CPU,pattern length:2,time:25.53
+func:KMP CPU,pattern length:4,time:25.05
+func:KMP CPU,pattern length:8,time:25.32
+func:KMP CPU,pattern length:16,time:25.00
+func:KMP CPU,pattern length:32,time:25.22
+func:KMP CPU,pattern length:64,time:25.33
+func:KMP CPU,pattern length:128,time:25.29
+func:KMP CPU,pattern length:256,time:25.45
+func:KMP CPU,pattern length:512,time:25.23
+func:KMP CPU,pattern length:1024,time:26.33
+func:KMP GPU,pattern length:2,time:1.49
+func:KMP GPU,pattern length:4,time:1.42
+func:KMP GPU,pattern length:8,time:1.45
+func:KMP GPU,pattern length:16,time:1.56
+func:KMP GPU,pattern length:32,time:2.09
+func:KMP GPU,pattern length:64,time:1.98
+func:KMP GPU,pattern length:128,time:2.93
+func:KMP GPU,pattern length:256,time:4.91
+func:KMP GPU,pattern length:512,time:8.86
+func:KMP GPU,pattern length:1024,time:16.57
+func:BM CPU,pattern length:2,time:22.90
+func:BM CPU,pattern length:4,time:14.79
+func:BM CPU,pattern length:8,time:10.37
+func:BM CPU,pattern length:16,time:8.58
+func:BM CPU,pattern length:32,time:7.54
+func:BM CPU,pattern length:64,time:6.86
+func:BM CPU,pattern length:128,time:5.53
+func:BM CPU,pattern length:256,time:5.35
+func:BM CPU,pattern length:512,time:5.27
+func:BM CPU,pattern length:1024,time:5.19
+func:BM GPU,pattern length:2,time:1.41
+func:BM GPU,pattern length:4,time:1.18
+func:BM GPU,pattern length:8,time:1.14
+func:BM GPU,pattern length:16,time:1.04
+func:BM GPU,pattern length:32,time:1.05
+func:BM GPU,pattern length:64,time:1.03
+func:BM GPU,pattern length:128,time:1.09
+func:BM GPU,pattern length:256,time:1.24
+func:BM GPU,pattern length:512,time:1.55
+func:BM GPU,pattern length:1024,time:2.14
+func:Sunday CPU,pattern length:2,time:17.05
+func:Sunday CPU,pattern length:4,time:12.73
+func:Sunday CPU,pattern length:8,time:9.23
+func:Sunday CPU,pattern length:16,time:7.67
+func:Sunday CPU,pattern length:32,time:6.47
+func:Sunday CPU,pattern length:64,time:5.99
+func:Sunday CPU,pattern length:128,time:6.26
+func:Sunday CPU,pattern length:256,time:6.18
+func:Sunday CPU,pattern length:512,time:6.07
+func:Sunday CPU,pattern length:1024,time:6.10
+func:Sunday GPU,pattern length:2,time:1.30
+func:Sunday GPU,pattern length:4,time:1.13
+func:Sunday GPU,pattern length:8,time:1.06
+func:Sunday GPU,pattern length:16,time:1.03
+func:Sunday GPU,pattern length:32,time:1.01
+func:Sunday GPU,pattern length:64,time:1.00
+func:Sunday GPU,pattern length:128,time:1.09
+func:Sunday GPU,pattern length:256,time:1.25
+func:Sunday GPU,pattern length:512,time:1.54
+func:Sunday GPU,pattern length:1024,time:2.10
+func:EPSMa CPU,pattern length:2,time:9.58
+func:EPSMa CPU,pattern length:4,time:8.11
+func:EPSMa CPU,pattern length:8,time:8.84
+func:EPSMa CPU,pattern length:16,time:26.41
+func:EPSMa GPU,pattern length:2,time:2.64
+func:EPSMa GPU,pattern length:4,time:2.56
+func:EPSMa GPU,pattern length:8,time:2.63
+func:EPSMa GPU,pattern length:16,time:2.66
+func:EPSMa GPU,pattern length:32,time:2.87
+func:EPSMa GPU,pattern length:64,time:2.82
+func:EPSMa GPU,pattern length:128,time:2.79
+func:EPSMa GPU,pattern length:256,time:2.88
+func:EPSMa GPU,pattern length:512,time:2.98
+func:EPSMa GPU,pattern length:1024,time:3.22
+func:SSEF CPU,pattern length:32,time:6.49
+func:SSEF CPU,pattern length:64,time:5.20
+func:SSEF CPU,pattern length:128,time:5.02
+func:SSEF CPU,pattern length:256,time:5.02
+func:SSEF CPU,pattern length:512,time:4.72
+func:SSEF CPU,pattern length:1024,time:5.06
+func:SSEF GPU,pattern length:2,time:5.02
+func:SSEF GPU,pattern length:4,time:5.37
+func:SSEF GPU,pattern length:8,time:5.47
+func:SSEF GPU,pattern length:16,time:5.43
+func:SSEF GPU,pattern length:32,time:5.96
+func:SSEF GPU,pattern length:64,time:2.81
+func:SSEF GPU,pattern length:128,time:1.93
+func:SSEF GPU,pattern length:256,time:1.61
+func:SSEF GPU,pattern length:512,time:1.87
+func:SSEF GPU,pattern length:1024,time:2.63
